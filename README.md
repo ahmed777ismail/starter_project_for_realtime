@@ -1,9 +1,9 @@
 ## Starter project for realtime course on Udemy
 
-<img src="https://img-c.udemycdn.com/course/750x422/5669532_824d.jpg"> 
 
-**Created By :** Mahmoud Anwar
-**Email :** Engsahaly@gmail.com
+
+**Created By :** Ahmed Ismail 
+**Email :** ahmed1kaballo@gmail.com
 
 This is the main readme file for this starter project to use as initial starting point fro realtime course on Udemy
 
@@ -12,7 +12,7 @@ This is the main readme file for this starter project to use as initial starting
 To get started, clone this repository.
 
 ```
-git clone https://github.com/engsahaly/starter_project_for_realtime.git
+git clone https://github.com/ahmed777ismail/starter_project_for_realtime.git
 ```
 
 Next, copy your `.env.example` file as `.env` and configure your Database connection.
